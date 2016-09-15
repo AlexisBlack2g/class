@@ -2,7 +2,10 @@
 title: "ThisIsExciting"
 author: "Alexis Black"
 date: "September 15, 2016"
-output: github_document
+output:
+  word_document: default
+  keep_md: yes
+  html_document: null
 ---
 
 ```{r setup, include=FALSE}
