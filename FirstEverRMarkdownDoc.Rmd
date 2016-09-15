@@ -1,8 +1,8 @@
 ---
 title: "ThisIsExciting"
 author: "Alexis Black"
-date: "September 15, 2016"
-output:github_document
+date: "`r format(Sys.Date())`"
+output: github_document
 
 ---
 

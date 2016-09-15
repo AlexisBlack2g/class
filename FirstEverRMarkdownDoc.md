@@ -1,7 +1,7 @@
 ThisIsExciting
 ================
 Alexis Black
-September 15, 2016
+2016-09-15
 
 R Markdown
 ----------
